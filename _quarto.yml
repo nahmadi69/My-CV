@@ -1,0 +1,79 @@
+# This file controls the settings for your Quarto
+
+# website settings
+website:
+  title: "Naser Ahmadi"                                # Your name
+  description: "I'm senior Biostatistician and public health data science"   # A brief slogan (optional)
+  image: img/my_image_1.jpg
+  
+  favicon: img/favicon1.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /img/favicon1.png
+    
+    # your sub-pages
+    left:
+      - text: "Education and Achievement"
+        href: Education/index.qmd
+      - text: "Experience"
+        href: Experience.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Skills"
+        href: Skills/index.qmd
+      # - text: "CV"
+      #   href: cv/index.qmd
+      - text: "Recomendation Letter"
+        href: recomendation/index.qmd
+    
+    # your social media handles
+    right:
+
+    - icon: linkedin
+      # text: LinkedIn
+      href: https://www.linkedin.com/in/naser-ahmadi-9650a6169/
+    - icon: envelope
+      # text: Email
+      href: "mailto:mail.Naserahmadi3002@gmail.com"  
+    - icon: telephone
+      # text: Phone number
+      href: tel:(+98) 9189927001
+  
+
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+#quarto publish quarto-pub
+
+
+

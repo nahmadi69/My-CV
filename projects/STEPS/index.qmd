@@ -1,0 +1,21 @@
+---
+title: "STEPwise approach to NCD risk factor surveillance (STEPS) 2021"
+author: "Naser Ahmadi"
+date: ""
+categories: [Funded by MoH]
+image: "STEPS2021 logo.jpg"
+
+---
+
+June 2022
+
+<img src="STEPS2021.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open(&apos;https://nih.tums.ac.ir/Show/Item/1265&apos;, &apos;blank&apos;);"/>
+
+
+::: {style="text-align: justify"}
+"Surveillance of Risk Factors of Non-communicable Disease in Iran (STEPs)" is a large-scale cross-sectional study that measures risk factors of non-communicable diseases in Iran. STEPs surveys, in 2016 and 2021 have been implemented by NCDRC. As a senior statistician, I was involved in most parts of this study in 2021 including Study design (sample size, sampling, software design, questionnaire design, data collection plan, and quality control) conceptualizing, cleaning, analyzing, visualizing reporting, writing research articles, and documentation
+:::
+
+<a href="http://journalaim.com/Article/aim-23947" target="_blank">Study Protocol</a>
+
+------------------------------------------------------------------------

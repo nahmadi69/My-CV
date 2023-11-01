@@ -1,0 +1,9 @@
+---
+title: Curriculum vitae
+excerpt: My current CV
+format: html
+---
+
+<iframe src="cv.pdf" width="100%" height="800px"></iframe>
+
+[Download my CV](cv.pdf)

@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download my CV"
+  },
+  {
+    "objectID": "Education/index.html",
+    "href": "Education/index.html",
+    "title": "Naser Ahmadi",
+    "section": "",
+    "text": "BSc. Statistics. Razi university, kermanshah, Iran. (2009-2015)\nMSc. Biostatistics. Shahid Beheshti University of Medical Science (Ranked 3th in Iran), Tehran, Iran. (2015-2018)\nMaster thesis:\nUsing mixture models for analyzing heterogeneous survival data."
+  },
+  {
+    "objectID": "Education/index.html#education",
+    "href": "Education/index.html#education",
+    "title": "Naser Ahmadi",
+    "section": "",
+    "text": "BSc. Statistics. Razi university, kermanshah, Iran. (2009-2015)\nMSc. Biostatistics. Shahid Beheshti University of Medical Science (Ranked 3th in Iran), Tehran, Iran. (2015-2018)\nMaster thesis:\nUsing mixture models for analyzing heterogeneous survival data."
+  },
+  {
+    "objectID": "Education/index.html#achievement",
+    "href": "Education/index.html#achievement",
+    "title": "Naser Ahmadi",
+    "section": "Achievement",
+    "text": "Achievement\nRanked 25th among more than 1000 participants in the Iranian University Entrance Exam for Master of Science. (2015)"
+  },
+  {
+    "objectID": "Education/index.html#papers",
+    "href": "Education/index.html#papers",
+    "title": "Naser Ahmadi",
+    "section": "Papers",
+    "text": "Papers\nI have published more than 55 scientific papers, which are available on my Google Scholar profile.\nMy Google Scholar profile"
+  },
+  {
+    "objectID": "Experience/CinnaGEN/index.html",
+    "href": "Experience/CinnaGEN/index.html",
+    "title": "CinnaGen Biotechnology company",
+    "section": "",
+    "text": "Senior Biostatistician June 2022- Until now\n\n\nAs a Biostatistician and data snientist at CinnaGen biotechnology company, I perform various tasks related to data analysis and visualization for clinical trials and research projects. Some of my main job duties are:\n\nClinical trial data analysis: I use R programming to conduct statistical analysis on clinical trial data, such as descriptive statistics, hypothesis testing, regression models, survival analysis, and mixed-effects models. I also ensure the quality and validity of the data and the results by following the standard operating procedures and guidelines.\nStatistical programming using R: I use R programming to create, modify, and maintain scripts and programs that perform data manipulation, processing, and reporting. I also use R to create custom functions and packages that automate and streamline the workflow and enhance the functionality of the existing tools.\nSample size calculation: I use R programming to calculate the appropriate sample size for different types of studies, such as randomized controlled trials, observational studies, and meta-analyses. I also consider the factors that affect the sample size, such as the effect size, power, significance level, and variability.\nStatistical consultancy for non-statistical researchers and staff: I provide statistical advice and guidance to researchers and staff who are not familiar with statistics or R programming. I help them understand the basic concepts and principles of statistics, design and plan their studies, choose and apply the suitable statistical methods, interpret and communicate the results, and troubleshoot any issues or problems they encounter.\nMaking web applications to create user-friendly statistical tools for non-statistician researchers: I use Shiny package in R to create interactive web applications that allow researchers to perform statistical analysis and visualization without coding. I design the user interface and the server logic of the web applications, and deploy them on Posit’s hosting service or on our own servers. for example: Statistical package for biosimilar study analysis 1 ; Statistical package for biosimilar study analysis 2\nMaking dashboard using Power BI and shiny: I use Power BI and shiny to create dashboard that display key metrics and indicators of our clinical trials and research projects. I connect them to various data sources, such as Excel files, databases, or web services. I also use Power BI and shiny to create charts, graphs, maps, tables, and other visual elements that illustrate the data in an effective and appealing way."
+  },
+  {
+    "objectID": "Experience/CinnaGEN/index.html#cinnagen-biotechnology-company",
+    "href": "Experience/CinnaGEN/index.html#cinnagen-biotechnology-company",
+    "title": "CinnaGen Biotechnology company",
+    "section": "",
+    "text": "Senior Biostatistician June 2022- Until now\n\n\nAs a Biostatistician and data snientist at CinnaGen biotechnology company, I perform various tasks related to data analysis and visualization for clinical trials and research projects. Some of my main job duties are:\n\nClinical trial data analysis: I use R programming to conduct statistical analysis on clinical trial data, such as descriptive statistics, hypothesis testing, regression models, survival analysis, and mixed-effects models. I also ensure the quality and validity of the data and the results by following the standard operating procedures and guidelines.\nStatistical programming using R: I use R programming to create, modify, and maintain scripts and programs that perform data manipulation, processing, and reporting. I also use R to create custom functions and packages that automate and streamline the workflow and enhance the functionality of the existing tools.\nSample size calculation: I use R programming to calculate the appropriate sample size for different types of studies, such as randomized controlled trials, observational studies, and meta-analyses. I also consider the factors that affect the sample size, such as the effect size, power, significance level, and variability.\nStatistical consultancy for non-statistical researchers and staff: I provide statistical advice and guidance to researchers and staff who are not familiar with statistics or R programming. I help them understand the basic concepts and principles of statistics, design and plan their studies, choose and apply the suitable statistical methods, interpret and communicate the results, and troubleshoot any issues or problems they encounter.\nMaking web applications to create user-friendly statistical tools for non-statistician researchers: I use Shiny package in R to create interactive web applications that allow researchers to perform statistical analysis and visualization without coding. I design the user interface and the server logic of the web applications, and deploy them on Posit’s hosting service or on our own servers. for example: Statistical package for biosimilar study analysis 1 ; Statistical package for biosimilar study analysis 2\nMaking dashboard using Power BI and shiny: I use Power BI and shiny to create dashboard that display key metrics and indicators of our clinical trials and research projects. I connect them to various data sources, such as Excel files, databases, or web services. I also use Power BI and shiny to create charts, graphs, maps, tables, and other visual elements that illustrate the data in an effective and appealing way."
+  },
+  {
+    "objectID": "Experience/NCDRC/index.html",
+    "href": "Experience/NCDRC/index.html",
+    "title": "Non-Communicable Diseases Research Center",
+    "section": "",
+    "text": "Senior Biostatistician July 2017- May 2023\n\n\nAs a data analyst and scientist, I have developed and applied various data analysis skills in my projects, such as STEPS2021 and IQCAMP. Some of my main data analysis skills are:\n\nData cleaning using R programming and STATA software: I use R programming to perform data cleaning tasks, such as transforming, filtering, merging, and reshaping data. I use packages such as dplyr, tidyr, lubridate, and stringr to manipulate data frames, dates, and strings. I also use STATA software to import, export, and manage data from different sources and formats.\nData visualization using ggplot2 and plotly: I use ggplot2 package in R to create * high-quality and customizable plots and charts that display the patterns and trends in the data. I use plotly package in R to create interactive and dynamic visualizations that allow users to explore the data in different ways.\nPreparing automated report generators: I use R Markdown and knitr packages in R to create reproducible reports that combine code, results, and text. I use parameters, templates, and loops to automate the report generation process for different data sets and scenarios.\nPreparing statistical analysis for scientific papers: I use R programming and STATA software to conduct various statistical analyses for scientific papers, such as descriptive statistics, hypothesis testing, regression models, survival analysis, and mixed-effects models\n\nI have used these data analysis skills in my projects as a main statistician. For example, in STEPS2021 and IQCAMP projects, I was involved in all stages of the survey study, from the design to the final report. I used R programming and STATA software to clean, analyze, and visualize the survey data. I also used R Markdown and knitr packages to create automated report generators that produced summary tables and graphs for each province."
+  },
+  {
+    "objectID": "Experience.html",
+    "href": "Experience.html",
+    "title": "Naser Ahmadi",
+    "section": "",
+    "text": "CinnaGen Biotechnology company\n\n\n\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\n  \n\n\n\n\nNon-Communicable Diseases Research Center\n\n\n\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Naser Ahmadi",
+    "section": "",
+    "text": "Naser Ahmadi\nData scientist and Biostatistician.\n\nI am a public health data scientist with a master’s degree in biostatistics from Shahid Beheshti University of Medical Sciences. I have six years of experience in various national and international projects funded by WHO and the Ministry of Health in Iran. I am skilled in R programming, data wrangling, statistical analysis, visualization, and reporting. I am also an expert in training and capacity-building on R and STATA.\nI have many soft skills that make me a valuable team member and a good researcher. I have attention to detail, especially in data and values. I am a self-learner and I can quickly and independently learn new skills and tools. I am curious and eager to learn new things and expand my knowledge. I have good problem-solving skills and I love working with data. I enjoy finding patterns, trends, and insights from data that can inform decisions and actions. I am a team player and I enjoy collaborating with others. I value feedback and constructive criticism as opportunities to improve myself. I am eager for new challenges and experiences."
+  },
+  {
+    "objectID": "projects/Covid/index.html",
+    "href": "projects/Covid/index.html",
+    "title": "COVID-19 Epidemiological Study: A report to the World Health Organization",
+    "section": "",
+    "text": "December 2021\n\n\nIn the present study, we aimed to assess the epidemiology of hospitalized COVID-19 patients in Iran and to prepare a comprehensive report of all COVID-19 patients in Iran that were admitted to the hospitals from the beginning of the outbreak until June 2021. We aim for this report to be of use to Iran’s health policymakers. We used Iran’s COVID-19 registration system through hospital portal. Our data covered almost 16 months in the pandemic and included over 1.5 million registered COVID-19 patients with their demographics, previous histories, and their disease outcomes."
+  },
+  {
+    "objectID": "projects/IQCAMP/index.html",
+    "href": "projects/IQCAMP/index.html",
+    "title": "Iran Quality of Care in Medicine Program (IQCAMP)",
+    "section": "",
+    "text": "July 2021\n\n\nIran Quality of Care in Medicine Program (IQCAMP) is a national pilot project aimed to evaluate the quality and cost of care for seven diseases with a high burden in Iran and around the globe. They are myocardial infarction, ischemic stroke, congestive heart failure, chronic obstructive pulmonary disease, end-stage renal disease, major depression disorder, and diabetes mellitus. A cohort of about 300 patients was deemed to be sampled and followed up for three to six months. in this study I was a main statistician and my duty is cleaning the data and preparing the result. you can see the result of this study:\n\nQuality and cost of healthcare services in patients with diabetes in Iran: Results of a nationwide short-term longitudinal survey"
+  },
+  {
+    "objectID": "projects/IraPEN/index.html",
+    "href": "projects/IraPEN/index.html",
+    "title": "IraPEN Program Cost Analysis",
+    "section": "",
+    "text": "December 2017\n\n\nWorld-Health-Organization’s PEN package proposes a minimum set of cost-effective interventions for early diagnosis and management of Non-Communicable-Disease (NCD). IraPEN (the PEN package implemented in Iran), adopted from PEN and Iran National Action Plans for NCDs, addresses challenges regarding NCD prevention and control. IraPEN was piloted in four districts of Iran. In this research, we estimate incremental per-capita cost of IraPEN program implementation in two of the pilot districts. you can see the result of this study in this link:\n\nThe incremental cost of implementing the world health organization Package of essential non-communicable (PEN) diseases interventions in Iran"
+  },
+  {
+    "objectID": "projects/STEPS/index.html",
+    "href": "projects/STEPS/index.html",
+    "title": "STEPwise approach to NCD risk factor surveillance (STEPS) 2021",
+    "section": "",
+    "text": "June 2022\n\n\n“Surveillance of Risk Factors of Non-communicable Disease in Iran (STEPs)” is a large-scale cross-sectional study that measures risk factors of non-communicable diseases in Iran. STEPs surveys, in 2016 and 2021 have been implemented by NCDRC. As a senior statistician, I was involved in most parts of this study in 2021 including Study design (sample size, sampling, software design, questionnaire design, data collection plan, and quality control) conceptualizing, cleaning, analyzing, visualizing reporting, writing research articles, and documentation\n\nStudy Protocol"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Naser Ahmadi",
+    "section": "",
+    "text": "COVID-19 Epidemiological Study: A report to the World Health Organization\n\n\n\n\n\n\n\nFunded by WHO\n\n\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\n  \n\n\n\n\nIraPEN Program Cost Analysis\n\n\n\n\n\n\n\nFunded by WHO\n\n\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\n  \n\n\n\n\nIran Quality of Care in Medicine Program (IQCAMP)\n\n\n\n\n\n\n\nFunded by MoH\n\n\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\n  \n\n\n\n\nSTEPwise approach to NCD risk factor surveillance (STEPS) 2021\n\n\n\n\n\n\n\nFunded by MoH\n\n\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "recomendation/index.html",
+    "href": "recomendation/index.html",
+    "title": "Naser Ahmadi",
+    "section": "",
+    "text": "Download this recomendation file"
+  },
+  {
+    "objectID": "recomendation/index.html#recomendation-letter-by-professor-farshad-farzadfar",
+    "href": "recomendation/index.html#recomendation-letter-by-professor-farshad-farzadfar",
+    "title": "Naser Ahmadi",
+    "section": "",
+    "text": "Download this recomendation file"
+  },
+  {
+    "objectID": "Skills/index.html",
+    "href": "Skills/index.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Skill\nExample Link\n\n\n\n\nR programming\nAutomate report generator\nSee an example of automate report generator code\n\n\n\nData cleaning\nSee an example of Data Cleaing\n\n\n\nVisualization\nSee an example of Visualization\n\n\n\nR shiny\nSee an example of Shiny application\n\n\n\n\n\n\nSTATA\nData cleaning\nSee an example of STATA code"
+  },
+  {
+    "objectID": "Skills/index.html#programming",
+    "href": "Skills/index.html#programming",
+    "title": "Skills",
+    "section": "",
+    "text": "Skill\nExample Link\n\n\n\n\nR programming\nAutomate report generator\nSee an example of automate report generator code\n\n\n\nData cleaning\nSee an example of Data Cleaing\n\n\n\nVisualization\nSee an example of Visualization\n\n\n\nR shiny\nSee an example of Shiny application\n\n\n\n\n\n\nSTATA\nData cleaning\nSee an example of STATA code"
+  },
+  {
+    "objectID": "Skills/index.html#other-skills",
+    "href": "Skills/index.html#other-skills",
+    "title": "Skills",
+    "section": "Other skills",
+    "text": "Other skills\n-   Statistical Modeling\n\n-   Data Wrangling\n\n-   Making dashboards (R shiny & Power BI)\n\n-   Visualization\n\n-   Clinical trial data analysis\n\n-   Sample size calculation\n\n-   Survey design & analysis"
+  },
+  {
+    "objectID": "Skills/index.html#languages",
+    "href": "Skills/index.html#languages",
+    "title": "Skills",
+    "section": "languages",
+    "text": "languages\n-   English\n\n-   Persian\n\n-   Arabic\n\n-   kurdish"
+  },
+  {
+    "objectID": "test quarto.html",
+    "href": "test quarto.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "test quarto.html#meet-quarto",
+    "href": "test quarto.html#meet-quarto",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "test quarto.html#meet-the-penguins",
+    "href": "test quarto.html#meet-the-penguins",
+    "title": "Untitled",
+    "section": "Meet the penguins",
+    "text": "Meet the penguins\n\nThe penguins data from the palmerpenguins package contains size measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica.\nThe plot below shows the relationship between flipper and bill lengths of these penguins.\n\nThis content can be styled with a border\n\n\n\n\n\n\n\n\n\nElephant\n\n\n[![Elephant](elephant.png)](https://en.wikipedia.org/wiki/Elephant)"
+  }
+]

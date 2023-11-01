@@ -1,0 +1,36 @@
+---
+about:
+  template: trestles
+  id: about-block
+  image: "img/my_image_1.jpg"
+  image-width: 15em
+  links:
+    - icon: google scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=F9e09p4AAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/naser-ahmadi-9650a6169/
+    - icon: ai-researchgate  
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Naser-Ahmadi-4
+    - icon: github
+      text: GitHub
+      href: https://github.com/nahmadi69
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.Naserahmadi3002@gmail.com"  
+---
+
+
+# **Naser Ahmadi**
+
+**Data scientist and Biostatistician.**
+
+::: {style="text-align: justify"}
+I am a public health data scientist with a master's degree in biostatistics from Shahid Beheshti University of Medical Sciences. I have six years of experience in various national and international projects funded by WHO and the Ministry of Health in Iran. I am skilled in R programming, data wrangling, statistical analysis, visualization, and reporting. I am also an expert in training and capacity-building on R and STATA.
+
+I have many soft skills that make me a valuable team member and a good researcher. I have attention to detail, especially in data and values. I am a self-learner and I can quickly and independently learn new skills and tools. I am curious and eager to learn new things and expand my knowledge. I have good problem-solving skills and I love working with data. I enjoy finding patterns, trends, and insights from data that can inform decisions and actions. I am a team player and I enjoy collaborating with others. I value feedback and constructive criticism as opportunities to improve myself. I am eager for new challenges and experiences.
+:::
+
+

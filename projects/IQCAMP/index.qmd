@@ -1,0 +1,17 @@
+---
+title: "Iran Quality of Care in Medicine Program (IQCAMP)"
+author: "Naser Ahmadi"
+date: ""
+categories: [Funded by MoH]
+image: "IQCAMP1 logo.jpg"
+---
+
+July 2021
+
+<img src="IQCAMP1.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open(&apos;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10060949/&apos;, &apos;blank&apos;);"/>
+
+::: {style="text-align: justify"}
+Iran Quality of Care in Medicine Program (IQCAMP) is a national pilot project aimed to evaluate the quality and cost of care for seven diseases with a high burden in Iran and around the globe. They are myocardial infarction, ischemic stroke, congestive heart failure, chronic obstructive pulmonary disease, end-stage renal disease, major depression disorder, and diabetes mellitus. A cohort of about 300 patients was deemed to be sampled and followed up for three to six months. in this study I was a main statistician and my duty is cleaning the data and preparing the result. you can see the result of this study:
+:::
+
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10060949/" target="_blank">Quality and cost of healthcare services in patients with diabetes in Iran: Results of a nationwide short-term longitudinal survey</a>

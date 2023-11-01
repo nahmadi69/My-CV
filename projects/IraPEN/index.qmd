@@ -1,0 +1,20 @@
+---
+title: "IraPEN Program Cost Analysis"
+author: "Naser Ahmadi"
+date: ""
+categories: [Funded by WHO]
+image: "PEN logo.jpg"
+image-height: 50%
+image-width: 50%
+---
+
+December 2017
+
+<img src="PEN.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0000449', 'blank');"/>
+
+<div style="text-align: justify">World-Health-Organization’s PEN package proposes a minimum set of cost-effective interventions for early diagnosis and management of Non-Communicable-Disease (NCD). IraPEN (the PEN package implemented in Iran), adopted from PEN and Iran National Action Plans for NCDs, addresses challenges regarding NCD prevention and control. IraPEN was piloted in four districts of Iran. In this research, we estimate incremental per-capita cost of IraPEN program implementation in two of the pilot districts. you can see the result of this study in this link:
+</div>
+
+<a href="https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0000449" target="_blank">The incremental cost of implementing the world health organization Package of essential non-communicable (PEN) diseases interventions in Iran</a> 
+
+

@@ -1,0 +1,16 @@
+---
+title: "COVID-19 Epidemiological Study: A report to the World Health Organization"
+author: "Naser Ahmadi"
+date: ""
+categories: [Funded by WHO]
+image: "Covid-Report_to_WHO logo.jpg"
+
+---
+
+ December 2021
+
+<img src="Covid-Report_to_WHO.png" style="height: 100%; width: 100%;"/>
+
+<div style="text-align: justify">In the present study, we aimed to assess the epidemiology of hospitalized COVID-19 patients in Iran and to prepare a comprehensive report of all COVID-19 patients in Iran that were admitted to the hospitals from the beginning of the outbreak until June 2021. We aim for this report to be of use to Iran’s health policymakers. We used Iran’s COVID-19 registration system through hospital portal. Our data covered almost 16 months in the pandemic and included over 1.5 million registered COVID-19 patients with their demographics, previous histories, and their disease outcomes.
+</div>
+
