@@ -7,7 +7,7 @@ image: "NCDRC logo.jpg"
 ---
 
  Senior Biostatistician 
- July 2017- May 2023
+ July 2017- Until now
 
 <img src="NCDRC.png" style="height: 30%; width: 30%; object-fit: contain" onclick="window.open('https://www.linkedin.com/company/ncdrc/?trk=public_profile_experience-item_profile-section-card_image-click&originalSubdomain=nl', 'blank');"/>
 
