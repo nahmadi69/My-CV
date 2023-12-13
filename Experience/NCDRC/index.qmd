@@ -16,7 +16,7 @@ As a data analyst and scientist, I have developed and applied various data analy
 
  * Data cleaning using R programming and STATA software: I use R programming to perform data cleaning tasks, such as transforming, filtering, merging, and reshaping data. I use packages such as dplyr, tidyr, lubridate, and stringr to manipulate data frames, dates, and strings. I also use STATA software to import, export, and manage data from different sources and formats.
  
- * Data visualization using ggplot2 and plotly: I use ggplot2 package in R to create * high-quality and customizable plots and charts that display the patterns and trends in the data. I use plotly package in R to create interactive and dynamic visualizations that allow users to explore the data in different ways.
+ * Data visualization using ggplot2 and plotly: I use ggplot2 package in R to create  high-quality and customizable plots and charts that display the patterns and trends in the data. I use plotly package in R to create interactive and dynamic visualizations that allow users to explore the data in different ways.
  * Preparing automated report generators: I use R Markdown and knitr packages in R to create reproducible reports that combine code, results, and text. I use parameters, templates, and loops to automate the report generation process for different data sets and scenarios.
  
  * Preparing statistical analysis for scientific papers: I use R programming and STATA software to conduct various statistical analyses for scientific papers, such as descriptive statistics, hypothesis testing, regression models, survival analysis, and mixed-effects models
