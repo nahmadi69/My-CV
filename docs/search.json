@@ -107,28 +107,28 @@
   {
     "objectID": "Skills/index.html",
     "href": "Skills/index.html",
-    "title": "Skills",
+    "title": "Naser Ahmadi",
     "section": "",
     "text": "Skill\nExample Link\n\n\n\n\nR programming\nAutomate report generator\nSee an example of automate report generator code\n\n\n\nData cleaning\nSee an example of Data Cleaing\n\n\n\nVisualization\nSee an example of Visualization\n\n\n\nR shiny\nSee an example of Shiny application\n\n\n\n\n\n\nSTATA\nData cleaning\nSee an example of STATA code"
   },
   {
     "objectID": "Skills/index.html#programming",
     "href": "Skills/index.html#programming",
-    "title": "Skills",
+    "title": "Naser Ahmadi",
     "section": "",
     "text": "Skill\nExample Link\n\n\n\n\nR programming\nAutomate report generator\nSee an example of automate report generator code\n\n\n\nData cleaning\nSee an example of Data Cleaing\n\n\n\nVisualization\nSee an example of Visualization\n\n\n\nR shiny\nSee an example of Shiny application\n\n\n\n\n\n\nSTATA\nData cleaning\nSee an example of STATA code"
   },
   {
     "objectID": "Skills/index.html#other-skills",
     "href": "Skills/index.html#other-skills",
-    "title": "Skills",
+    "title": "Naser Ahmadi",
     "section": "Other skills",
     "text": "Other skills\n-   Statistical Modeling\n\n-   Data Wrangling\n\n-   Making dashboards (R shiny & Power BI)\n\n-   Visualization\n\n-   Clinical trial data analysis\n\n-   Sample size calculation\n\n-   Survey design & analysis"
   },
   {
     "objectID": "Skills/index.html#languages",
     "href": "Skills/index.html#languages",
-    "title": "Skills",
+    "title": "Naser Ahmadi",
     "section": "languages",
     "text": "languages\n-   English\n\n-   Persian\n\n-   Arabic\n\n-   kurdish"
   },
@@ -151,6 +151,6 @@
     "href": "test quarto.html#meet-the-penguins",
     "title": "Untitled",
     "section": "Meet the penguins",
-    "text": "Meet the penguins\n\nThe penguins data from the palmerpenguins package contains size measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica.\nThe plot below shows the relationship between flipper and bill lengths of these penguins.\n\nThis content can be styled with a border\n\n\n\n\n\n\n\n\nElephant\n\n[![Elephant](elephant.png)](https://en.wikipedia.org/wiki/Elephant)"
+    "text": "Meet the penguins\n\nThe penguins data from the palmerpenguins package contains size measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica.\nThe plot below shows the relationship between flipper and bill lengths of these penguins.\n\nThis content can be styled with a border\n\n\n\n\n\n\n\n\n\nElephant\n\n\n[![Elephant](elephant.png)](https://en.wikipedia.org/wiki/Elephant)"
   }
 ]
