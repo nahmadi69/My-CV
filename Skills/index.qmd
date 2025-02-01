@@ -1,54 +1,42 @@
 ---
- #title: "Skills"
+title: "Skills"
 ---
 
-## Programming
+## Technical Skills
 
-+---------------+---------------------------+----------------------------------------------------------------------------------------------------------------+
-|               | Skill                     | Example Link                                                                                                   |
-+:==============+:==========================+:===============================================================================================================+
-| R programming | Automate report generator | [See an example of automate report generator code](https://github.com/nahmadi69/Automate-report-generator.git) |
-+---------------+---------------------------+----------------------------------------------------------------------------------------------------------------+
-|               | Data cleaning             | [See an example of Data Cleaing](https://github.com/nahmadi69/Data-Cleaning.git)                               |
-+---------------+---------------------------+----------------------------------------------------------------------------------------------------------------+
-|               | Visualization             | [See an example of Visualization](https://github.com/nahmadi69/Visualization.git)                              |
-+---------------+---------------------------+----------------------------------------------------------------------------------------------------------------+
-|               | R shiny                   | [See an example of Shiny application](https://naser-ahmadi.shinyapps.io/Test-roport)                           |
-|               |                           |                                                                                                                |
-|               | user: Test\               |                                                                                                                |
-|               | pass: 123456              |                                                                                                                |
-+---------------+---------------------------+----------------------------------------------------------------------------------------------------------------+
-|               | Quarto                    | [See an example of quarto website](https://github.com/nahmadi69/My-CV.git)                                     |
-+---------------+---------------------------+----------------------------------------------------------------------------------------------------------------+
-| Stata         | Data cleaning             | [See an example of STATA code](https://github.com/nahmadi69/Stata-code.git)                                    |
-+---------------+---------------------------+----------------------------------------------------------------------------------------------------------------+
+### Programming
+- **R**: Report automation, data cleaning, visualization, Shiny apps  
+  Examples:  
+  - [Automate Report Generator](https://github.com/nahmadi69/Automate-report-generator.git)  
+  - [Data Cleaning](https://github.com/nahmadi69/Data-Cleaning.git)  
+  - [Shiny App](https://naser-ahmadi.shinyapps.io/Test-report) (Username: `Test`, Password: `123456`)  
 
-## Other skills
+- **Stata**: Data cleaning and analysis  
+  Example: [STATA Code](https://github.com/nahmadi69/Stata-code.git)  
 
-```         
--   Statistical Modeling
+- **Quarto**: Website and document creation  
+  Example: [Quarto Website](https://github.com/nahmadi69/My-CV.git)  
 
--   Data Wrangling
+---
 
--   Making dashboards (R shiny & Power BI)
+### Data Analysis
+- Statistical modeling  
+- Data wrangling and cleaning  
+- Survey design and analysis  
+- Clinical trial data analysis  
+- Sample size calculation  
 
--   Visualization
+---
 
--   Clinical trial data analysis
+### Visualization & Dashboards
+- **R Shiny**: Interactive dashboards  
+- **Power BI**: Business intelligence dashboards  
+- **ggplot2**: Advanced data visualizations  
 
--   Sample size calculation
+---
 
--   Survey design & analysis
-```
-
-## languages
-
-```         
--   English
-
--   Persian
-
--   Arabic
-
--   kurdish
-```
+## Languages
+- **English**: Fluent  
+- **Persian**: Native  
+- **Arabic**: Intermediate  
+- **Kurdish**: Intermediate  
